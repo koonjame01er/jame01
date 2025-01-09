@@ -10,3 +10,5 @@ print ("Learned IT")
 print ("Faculty of Management Science")
 print ("Nakhon Phanom University ")
 print ("In the future I want to work as an IT employee")
+
+print("คุณโดน เกรียนจาก พันธ์โพธิ์คุง")

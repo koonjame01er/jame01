@@ -1,0 +1,6 @@
+print ("Hello World")
+print ("My name is BURIN")
+print ("call Me Jame")
+print ("Learned from Nakae ")
+print ("educational NPU ")
+print ("Nakhon Phanom Province ")
